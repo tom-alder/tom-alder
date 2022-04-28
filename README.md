@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "35%" src="https://github.com/tramedol/tramedol/blob/main/banner.gif?raw=true" alt="cover" />
+<img width="100%" height = "35%" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif" alt="cover" />
 </div>
 
 <h1 align='center'> Welcome to my GitHub profile </h1>
