@@ -24,11 +24,11 @@
 
 🌙 <b>By Night:</b> Writing about big tech, stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
 
-🌱 I’m currently learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
+🌱 Learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
-🔭 I’m currently building a <a href=https://www.tomalder.me/>personal portfolio</a> of my writing on strategy and product.
+🔭 Building a <a href=https://www.tomalder.me/>personal portfolio</a> of my writing on strategy and product.
 
-👯 I’m looking to interview indie hackers and side hustlers about their projects and learnings. 
+👯 Looking to interview indie hackers and side hustlers about their projects and learnings. 
 
 💬 Talk to me about tech strategy, product management, creator economy, and self-taught web development. 
 
