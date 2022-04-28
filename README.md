@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://www.canva.com/design/DAE_IWfKvyc/mfEId3O3KI4mcVtHHq-yow/view?utm_content=DAE_IWfKvyc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76MRE3O3ZCIR2TBZI26YTJ7XXA" alt="cover" />
 </div>
 
 <h1> Welcome to my GitHub Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
