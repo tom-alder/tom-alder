@@ -16,7 +16,7 @@
   </div>
 
 
-<h2> About Me </h2>
+<h3> About Me </h3>
 
 
 
@@ -32,7 +32,7 @@
 
 💬 Talk to me about tech strategy, product management, creator economy, and self-taught web development. 
 
-<h2> Skills </h2>
+<h3> Currently Learning </h3>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=html&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=css&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=javascript&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -42,21 +42,27 @@
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=tailwind&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=git&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=github&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-
-
-
-
-<h2> My GitHub Stats </h2>
-
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tramedol&count_private=true&show_icons=true&theme=default" />
-</a>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<hr>
+<div></div>
+<h3 align="center"> My Tech / Creator Stack </h3>
+<div align="center">
+<img width="75%" src="https://raw.githubusercontent.com/tramedol/tramedol/d974b6f6f72dbc02cccd7c6b92decbfb812194e1/techstack.svg" alt="tech stack applications website social media architecture" />
 </div>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramedol&theme=default" />
-</a>
 
+<h3 align="center"> My GitHub Stats </h3>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=tramedol&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramedol&theme=default" />
+</a>
+ </div>
 
 
 
