@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://www.canva.com/design/DAE_IWfKvyc/mfEId3O3KI4mcVtHHq-yow/view?utm_content=DAE_IWfKvyc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover" />
 </div>
 
-<h1> Welcome to my GitHub Profile :smile: </h1>
+<h1> Welcome to my GitHub Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tramedol.tramedol)
@@ -13,12 +13,11 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-☀️ By Day: Management consultant @ KPMG Australia, specialising in tech strategy and product management.
+☀️ <b>By Day:</b> Management consultant @ KPMG Australia, specialising in tech strategy and product management.
 
-🌙 By Night: Writing about big tech stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
+🌙 <b>By Night:</b> Writing about big tech stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
 
 🌱 I’m currently learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
@@ -41,16 +40,23 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/tom-alder'> <img style="padding-right: 5px" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/tom-alder'> <img style='padding-right: 50px' width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/tramedol'> <img style="padding-right: 5px" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'tomalder.me'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/tramedol?template=classic&config.timezone=America%2FToronto)
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tramedol&count_private=true&show_icons=true&theme=default" />
+</a>
+</div>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramedol&theme=default" />
+</a>
 
 
 
