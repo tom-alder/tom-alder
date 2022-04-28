@@ -1,9 +1,9 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76MRE3O3ZCIR2TBZI26YTJ7XXA" alt="cover" />
+<img width="100%" height = "300px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76N5IEZQD3IES46TRHAYTJ74WQ" alt="cover" />
 </div>
 
-<h1> Welcome to my GitHub Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1> Welcome to my GitHub Profile </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tramedol.tramedol)
@@ -21,7 +21,7 @@
 
 🌱 I’m currently learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
-🔭 I’m currently working on building a <a href=https://www.tomalder.me/>personal portfolio</a> of my writing on strategy and product.
+🔭 I’m currently building a <a href=https://www.tomalder.me/>personal portfolio</a> of my writing on strategy and product.
 
 👯 I’m looking to interview indie hackers and side hustlers about their projects and learnings. 
 
@@ -40,10 +40,10 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/tom-alder'> <img style='padding-right: 50px' width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/tramedol'> <img style="padding-right: 5px" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'tomalder.me'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/tom-alder'> <img style='margin: 50px' width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/tramedol'> <img style="padding-right: 5px" width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'tomalder.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 
