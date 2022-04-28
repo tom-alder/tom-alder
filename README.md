@@ -42,17 +42,16 @@
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=tailwind&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=git&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=github&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<hr>
-<div></div>
+
+<h1> </h1>
+<br />
+<br />
+
 <h3 align="center"> My Tech / Creator Stack </h3>
 <div align="center">
 <img width="75%" src="https://raw.githubusercontent.com/tramedol/tramedol/d974b6f6f72dbc02cccd7c6b92decbfb812194e1/techstack.svg" alt="tech stack applications website social media architecture" />
 </div>
-
+<br />
 <h3 align="center"> My GitHub Stats </h3>
 
 <div align="center">
