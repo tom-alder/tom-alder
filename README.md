@@ -3,12 +3,17 @@
 <img width="100%" height = "305px" src="https://github.com/tramedol/tramedol/blob/main/banner.gif?raw=true" alt="cover" />
 </div>
 
-<h1> Welcome to my GitHub Profile </h1>
+<h1 align='center'> Welcome to my GitHub profile </h1>
+<div align='center'>
+ <a href=https://www.tomalder.me/>Website</a> • <a href=https://www.linkedin.com/in/tom-alder/>LinkedIn</a> • <a href=https://www.twitter.com/tramedol>Twitter</a> • <a href=https://tomalder.beehiiv.com/subscribe>Newsletter</a>
+  </div>
+<div align='center'>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tramedol.tramedol)
 
 </p>
+  </div>
 
 
 <h2> About Me </h2>
@@ -17,7 +22,7 @@
 
 ☀️ <b>By Day:</b> Management consultant @ KPMG Australia, specialising in tech strategy and product management.
 
-🌙 <b>By Night:</b> Writing about big tech stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
+🌙 <b>By Night:</b> Writing about big tech, stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
 
 🌱 I’m currently learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
@@ -25,7 +30,7 @@
 
 👯 I’m looking to interview indie hackers and side hustlers about their projects and learnings. 
 
-💬 Talk to me about tech strategy, product management, and self-taught web development. 
+💬 Talk to me about tech strategy, product management, creator economy, and self-taught web development. 
 
 <h2> Skills </h2>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=html&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -38,12 +43,6 @@
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=git&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/tramedol?tab=repositories&q=&type=&language=github&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
-
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/tom-alder'> <img width = '25px' height = '23px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/tramedol'> <img style="padding-right: 5px" width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'tomalder.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 
