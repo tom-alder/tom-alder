@@ -22,7 +22,7 @@
 
 ☀️ <b>By Day:</b> Management consultant @ KPMG Australia, specialising in tech strategy and product management.
 
-🌙 <b>By Night:</b> Writing about big tech, stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> Linkedin</a>. 
+🌙 <b>By Night:</b> Writing about big tech, stratups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> LinkedIn</a>. 
 
 🌱 Learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
@@ -51,6 +51,7 @@
 <div align="center">
 <img width="75%" src="https://raw.githubusercontent.com/tramedol/tramedol/d974b6f6f72dbc02cccd7c6b92decbfb812194e1/techstack.svg" alt="tech stack applications website social media architecture" />
 </div>
+<br />
 <br />
 <h3 align="center"> My GitHub Stats </h3>
 
