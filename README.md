@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "320px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76N5IEZQD3IES46TRHAYTJ74WQ" alt="cover" />
+<img width="100%" height = "305px" src="https://github.com/tramedol/tramedol/blob/main/banner.gif?raw=true" alt="cover" />
 </div>
 
 <h1> Welcome to my GitHub Profile </h1>
@@ -40,10 +40,10 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/tom-alder'> <img style='margin: 50px' width = '25px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/tom-alder'> <img width = '25px' height = '23px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/tramedol'> <img style="padding-right: 5px" width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'tomalder.me'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/tramedol'> <img style="padding-right: 5px" width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 
