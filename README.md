@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "300px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76N5IEZQD3IES46TRHAYTJ74WQ" alt="cover" />
+<img width="100%" height = "320px" src="https://raw.githubusercontent.com/tramedol/tramedol/main/banner.gif?token=GHSAT0AAAAAABUAN76N5IEZQD3IES46TRHAYTJ74WQ" alt="cover" />
 </div>
 
 <h1> Welcome to my GitHub Profile </h1>
