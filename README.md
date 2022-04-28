@@ -10,7 +10,8 @@
 <div align='center'>
 <p align='center'>
 
-![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=tramedol.tramedol)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tom-alder.tom-alder.visitor-badge&left_text=Page%20visits)
+
 
 </p>
   </div>
