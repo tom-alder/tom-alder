@@ -10,7 +10,7 @@
 <div align='center'>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tom-alder.tom-alder.visitor-badge&left_text=Page%20visits)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tom-alder.tom-alder.visitor-badge&left_text=Profile%20views)
 
 
 </p>
