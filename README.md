@@ -50,7 +50,7 @@
 
 <h3 align="center"> My Tech / Creator Stack </h3>
 <div align="center">
-<img width="75%" src="https://raw.githubusercontent.com/tom-alder/tom-alder/main/techstack.png" alt="tech stack applications website social media architecture" />
+<img width="75%" src="https://raw.githubusercontent.com/tom-alder/tom-alder/main/techstack-widescreen.png" alt="tech stack applications website social media architecture" />
 </div>
 <br />
 <br />
