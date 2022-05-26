@@ -54,18 +54,4 @@
 </div>
 <br />
 <br />
-<h3 align="center"> My GitHub Stats </h3>
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=tom-alder&include_all_commits=true&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-alder&theme=default" />
-</a>
-</div>
-
-
-
-
 <br>
