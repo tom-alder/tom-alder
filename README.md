@@ -5,7 +5,7 @@
 
 <h1 align='center'> Welcome to my GitHub profile </h1>
 <div align='center'>
- <a href=https://www.tomalder.me/>Website</a> • <a href=https://www.linkedin.com/in/tom-alder/>LinkedIn</a> • <a href=https://www.twitter.com/tramedol>Twitter</a> • <a href=https://tomalder.beehiiv.com/subscribe>Newsletter</a>
+ <a href=https://www.tomalder.me/>Website</a> • <a href=https://www.linkedin.com/in/tom-alder/>LinkedIn</a> • <a href=https://www.twitter.com/tomaldertweets>Twitter</a> • <a href=https://tomalder.beehiiv.com/subscribe>Newsletter</a>
   </div>
 <div align='center'>
 <p align='center'>
