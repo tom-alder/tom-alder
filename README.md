@@ -29,7 +29,7 @@
 
 🔭 Building a <a href=https://www.tomalder.me/>personal website</a> to showcase my writing on strategy and product.
 
-👯 Looking to interview indie hackers and side hustlers about their projects and learnings. 
+👯 Looking to connect with other techy creators and builders.
 
 💬 Talk to me about tech strategy, product management, creator economy, and self-taught web development. 
 
