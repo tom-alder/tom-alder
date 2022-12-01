@@ -21,9 +21,9 @@
 
 
 
-☀️ <b>By Day:</b> Management consultant @ KPMG Australia, specialising in tech strategy and product management.
+👨‍💻 </b> Strategy & business operations manager @ Atlassian, making products like Jira, Bitbucket, and Compass grow.
 
-🌙 <b>By Night:</b> Writing about big tech, startups, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> LinkedIn</a>. 
+✏️ Writing about strategy, product, SaaS, big tech, startups, creator economy, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> LinkedIn</a> and <a href=https://twitter.com/tomaldertweets/> Twitter</a>. 
 
 🌱 Learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
@@ -31,7 +31,7 @@
 
 👯 Looking to connect with other techy creators and builders.
 
-💬 Talk to me about tech strategy, product management, creator economy, and self-taught web development. 
+💬 Talk to me about tech strategy, product growth, creator economy, and self-taught web development. 
 
 <h3> Currently Learning </h3>
 <a href= https://github.com/tom-alder?tab=repositories&q=&type=&language=html&sort= > <img style="padding-right: 5px" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
