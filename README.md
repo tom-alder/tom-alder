@@ -11,7 +11,6 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tom-alder.tom-alder.visitor-badge&left_text=Profile%20views)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=tom-alder.visitor-badge&left)
 
 
 
