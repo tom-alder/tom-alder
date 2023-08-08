@@ -5,7 +5,7 @@
 
 <h1 align='center'> Welcome to my GitHub profile </h1>
 <div align='center'>
- <a href=https://www.tomalder.me/>Website</a> • <a href=https://www.linkedin.com/in/tom-alder/>LinkedIn</a> • <a href=https://www.twitter.com/tomaldertweets>Twitter</a> • <a href=https://tomalder.beehiiv.com/subscribe>Newsletter</a>
+ <a href=https://tomalder.beehiiv.com/subscribe>Newsletter</a> • <a href=https://www.tomalder.me/>Website</a> • <a href=https://www.linkedin.com/in/tom-alder/>LinkedIn</a> • <a href=https://www.twitter.com/tomaldertweets>Twitter</a> 
   </div>
 <div align='center'>
 <p align='center'>
@@ -26,7 +26,9 @@
 
 👨‍💻 </b> Strategy & business operations manager @ Atlassian, making products like Jira, Bitbucket, and Compass grow.
 
-✏️ Writing about strategy, product, SaaS, big tech, startups, creator economy, fintech, and web3 on <a href=https://www.linkedin.com/in/tom-alder/> LinkedIn</a> and <a href=https://twitter.com/tomaldertweets/> Twitter</a>. 
+🚀 Breaking down the strategy playbooks and growth hacks behind the world's greatest companies in my newsletter <a href=https://www.strategybreakdowns.com> Strategy Breakdowns</a>
+
+✏️ Writing about strategy, product, SaaS, big tech, startups, creator economy, and growth on <a href=https://www.linkedin.com/in/tom-alder/> LinkedIn</a> and <a href=https://twitter.com/tomaldertweets/> Twitter</a>. 
 
 🌱 Learning front-end web development through <a href=https://www.theodinproject.com/>The Odin Project</a>. 
 
